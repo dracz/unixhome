@@ -197,4 +197,4 @@ alias l='ls -CF'                              #
 # 
 # alias cd=cd_func
 
-export PS1='\[\e[0;32m\]\h:\[\e[m\] \[\e[1;34m\]\w\[\e[m\] \[\e[1;32m\]\n\$\[\e[m\] \[\e[1;37m\]'
+export PS1='\n\[\e[0;32m\]\h:\[\e[m\] \[\e[1;34m\]\w\[\e[m\] \[\e[1;32m\]\n\$\[\e[m\] \[\e[1;37m\]'
