@@ -1,1 +1,3 @@
 # unixhome
+
+.screenrc, .bashrc, .emacs, ...
